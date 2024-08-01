@@ -5,12 +5,6 @@
     overflow: hidden;
 }
 
-img {
-    display: block;
-    width: 100%; /* Изображение будет масштабироваться по ширине контейнера */
-    height: auto;
-}
-
 .circle {
     position: relative;
     width: 10%; /* Диаметр круга, относительный к ширине контейнера */
